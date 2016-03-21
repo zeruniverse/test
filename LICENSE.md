@@ -1,1 +1,1 @@
-NOTHING IS PERMITTED
+Deny from all
