@@ -168,5 +168,5 @@ var _http_map = {
             "220.181.154.137": [/^\//i]
         }
     },
-    _proxy_str = "PROXY 120.198.233.211:80; DIRECT;";
+    _proxy_str = "PROXY 120.198.233.211:8080; DIRECT;";
     /*Get this IP from newest cn-proxy.com*/
