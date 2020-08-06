@@ -11,7 +11,6 @@ js/plugins/passwordHistory.js
 js/plugins/passwordAge.js
 js/plugins/linkButton.js
 js/plugins/keyboardShortcuts.js
-js/plugins/clipboard.js
 js/plugin.js
 js/main.js
 js/lib/ua-parser.min.js
